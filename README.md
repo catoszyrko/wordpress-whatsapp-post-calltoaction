@@ -1,6 +1,6 @@
-# wordpress-js-custom-plugin
+# wordpress-whatsapp-post-calltoaction
 
-This plugin enables admin wordpress to add js code to the website. 
+This plugin enables admin wordpress to add whatsapp contact button to any post or page, with inserting special shortcode.
 
 Just add shortcode with phone & cta vars and magic will happens!
 
